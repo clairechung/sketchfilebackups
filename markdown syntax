@@ -1,0 +1,30 @@
+# This is a test
+```javascript
+var a = 2;
+```
+This is normal text
+
+`no I am not`
+
+_underthehae_ **or** *italic*
+
+
+>hello2?
+
+~~Strike~~
+
+>>hello
+
+**bold**
+
+***bold and italic***
+
+- [x] Finish my changes
+- [ ] Did you?
+- I know
+1. I know...
+
+@octocat :+1: It's ready to merge! :shipit:
+[emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+how to ignore the \* syntax for using star
